@@ -1,1 +1,1 @@
-olamiz,ЮРАМИЗ,КАМ,ОЛАМИЗ,оламан,olaman,reklama,Kechirasiz!,пучталар,Килент,kam,guruhga,foydalanuvchi,guruhda,бот,блокланасиз,оламз,клет,xarakatdamiz,harakatdamiz,харакатдамиз,ҳаракатдамиз
+olamiz,ЮРАМИЗ,КАМ,ОЛАМИЗ,оламан,olaman,reklama,Kechirasiz!,пучталар,Килент,kam,guruhga,foydalanuvchi,guruhda,бот,блокланасиз,оламз,клет,xarakatdamiz,harakatdamiz,харакатдамиз,ҳаракатдамиз,end
